@@ -1,4 +1,4 @@
-# Node-Server
+# Node-API
 ## General
 This is an assignment on Introduction To NodeJS during Zuri I4G chohort 2 training for NodeJS traack.
 
@@ -9,11 +9,11 @@ Developers using this project should already have Node installed on their local 
 In order view this app, 
 - Open your terminal and clone this repository using
 ```
-git clone https://github.com/Tolulophey/Node-Server.git
+git clone https://github.com/Tolulophey/Node-API.git
 ```
 - make your way into the project directory clone by running the code below on your terminal
 ```
-cd Node-Server
+cd Node-API
 ```
 - Start the server by running the code below on your terminal
 ```
